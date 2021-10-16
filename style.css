@@ -1,0 +1,13 @@
+* {
+    background-color: #bbd0ff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar { 
+    border: 2px solid #cdb4db;
+    
+}
+li {
+    display: inline;
+
+}
